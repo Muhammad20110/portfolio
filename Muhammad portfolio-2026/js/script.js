@@ -2,23 +2,30 @@ const projects = [
     {
         id: 1,
         title: "Pokemon",
-        image: "../images/projects/pokemon.png",
+        image: "./images/projects/pokemon.png",
         link: "https://shimmering-fairy-8d6fde.netlify.app/",
         tech: "HTML, CSS, JS"
     },
     {
         id: 2,
         title: "Tezkor Portfolio",
-        image: "../images/projects/pizzaShop.png",
+        image: "./images/projects/pizzaShop.png",
         link: "https://unique-parfait-6e129c.netlify.app/",
         tech: "HTML, CSS"
     },
     {
         id: 3,
         title: "Davlatlar",
-        image: "../images/projects/renderCountries.png",
+        image: "./images/projects/renderCountries.png",
         link: "https://resilient-toffee-5030f6.netlify.app/",
         tech: "JavaScript, API"
+    },
+    {
+        id: 4,
+        title: "Ugmonk",
+        image: "./images/projects/Ugmonk.png",
+        link: "https://velvety-madeleine-c76fd1.netlify.app/",
+        tech: "React, tailwind"
     }
 ];
 
